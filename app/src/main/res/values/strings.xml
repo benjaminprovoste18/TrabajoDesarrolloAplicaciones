@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EM Terreno</string>
+    <string name="channel_ordenes_nombre">Órdenes de trabajo</string>
+    <string name="channel_ordenes_desc">Avisos de nuevas órdenes asignadas y cambios de urgencia</string>
+</resources>
